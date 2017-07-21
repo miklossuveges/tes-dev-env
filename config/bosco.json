@@ -1,0 +1,29 @@
+{
+  "teams": {
+    "tes/openvpn": {
+      "id": 2117676
+    },
+    "tes/team-dashboards": {
+      "id": 2389786,
+      "path": "/tes/team-dashboards",
+      "repos": [
+        "app-resource-author-dashboard-v2",
+        "app-resource-user-dashboard",
+        "app-resource-user-dashboard-v2",
+        "resource-manager",
+        "service-user-uploads"
+      ]
+    },
+    "miklossuveges": {
+      "id": "miklossuveges",
+      "isUser": true
+    }
+  },
+  "github": {
+    "user": "miklossuveges",
+    "authToken": "0eaa185efd4ec1157012c8afc6f7da1915cc4a73"
+  },
+  "cache": {
+    "github": {}
+  }
+}
