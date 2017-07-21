@@ -37,7 +37,7 @@ RUN npm i -g pm2 nodemon bosco
 
 # init tes dev
 ADD ./scripts/ /.tes/
-ADD ./config/ /.tes/
+# ADD ./config/ /.tes/
 # ADD ./.ssh/ /root/.ssh/
 ENV TES_DIR /tes
 # ENV SSH_DIR /root/.ssh
